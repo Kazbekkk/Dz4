@@ -1,0 +1,15 @@
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\bin\Debug\net7.0\Ex_25.exe
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\bin\Debug\net7.0\Ex_25.deps.json
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\bin\Debug\net7.0\Ex_25.runtimeconfig.json
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\bin\Debug\net7.0\Ex_25.dll
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\bin\Debug\net7.0\Ex_25.pdb
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\Ex_25.csproj.AssemblyReference.cache
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\Ex_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\Ex_25.AssemblyInfoInputs.cache
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\Ex_25.AssemblyInfo.cs
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\Ex_25.csproj.CoreCompileInputs.cache
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\Ex_25.dll
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\refint\Ex_25.dll
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\Ex_25.pdb
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\Ex_25.genruntimeconfig.cache
+C:\Users\bende\OneDrive\Рабочий стол\GeekBrains\C#\Dz4\Ex_25\obj\Debug\net7.0\ref\Ex_25.dll
